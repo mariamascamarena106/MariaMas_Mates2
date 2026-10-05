@@ -131,11 +131,23 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 408402794}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 35a950f51a01a684aa4dcff2c5203f87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Entrega2
+--- !u!114 &408402796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 408402794}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 631d5eaaf1407e44fb626e27609d0030, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Entrega3
 --- !u!1 &1138354492
 GameObject:
   m_ObjectHideFlags: 0
@@ -287,6 +299,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 8584133039415826671, guid: e59e21bcbbdea014f8557ed264bac548, type: 3}
       insertIndex: -1
       addedObject: {fileID: 408402795}
+    - targetCorrespondingSourceObject: {fileID: 8584133039415826671, guid: e59e21bcbbdea014f8557ed264bac548, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 408402796}
   m_SourcePrefab: {fileID: 100100000, guid: e59e21bcbbdea014f8557ed264bac548, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
