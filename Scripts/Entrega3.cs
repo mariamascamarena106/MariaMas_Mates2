@@ -49,7 +49,7 @@ public class Entrega3 : MonoBehaviour
         }
         Debug.Log(resul);
 
-        //Coste temporal = O(n^2) por bucle
+        //Coste temporal = O(n log n)
 
 
 
