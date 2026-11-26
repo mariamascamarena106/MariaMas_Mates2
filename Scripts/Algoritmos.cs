@@ -6,11 +6,18 @@ public class Algoritmos : MonoBehaviour
     void Start()
     {
 
-        
-         //Resuelve los siguientes ejercicios en C#:
+
+        //Resuelve los siguientes ejercicios en C#:
 
         //Contar las veces que una cifra c aparece en un entero no negativo n. (Pista: piensa cuál es el resultado de 1234 % 10)
 
+        int c = 2;
+        int entero = 0581262;
+        bool esElMismo;
+        for(int i = 0; i < c; i++)
+        {
+
+        }
 
         //Mostrar en consola las cifras de un número entero no negativo n en orden natural (de menor a mayor), uno en cada línea.
 
